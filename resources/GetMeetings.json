@@ -1,0 +1,18 @@
+{
+	"URL": {
+		"baseURL": "https://www.marketlogicsoftware.com",
+		"basePath": "/meeting",
+		"putMeetings": "/putmeeting",
+		"getMeetings":"/getmeeting",
+		"getHttpMethod":"GET",
+		"putHttpMethod": "PUT",
+		"getSpecificMeeting":"/getmeeting/"
+	},
+	"Headers":{
+		"X_USER-ID":"<user_id>"
+	},
+	"Body": {
+		"duration":"4"
+	}
+	
+}

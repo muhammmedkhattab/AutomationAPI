@@ -1,0 +1,15 @@
+{
+	"URL": {
+		"baseURL": "https://www.marketlogicsoftware.com",
+		"basePath": "/meeting",
+		"getHttpMethod":"GET",
+		"putHttpMethod": "PUT",
+		"deleteHttpMethod": "DELETE",
+		"putMeetings": "/putmeeting",
+		"deleteMeetings": "/deletemeeting/",
+		"getMeetings":"/getmeeting"
+	},
+	"Headers":{
+		"X_USER-ID":"<user_id>"
+	}
+}
